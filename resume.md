@@ -8,7 +8,7 @@ sidebar_link: true
 |                   |                     						|
 |:----------------  | :------------------						|
 |Address			|Gunja-dong, Gwangjin-gu,Seoul, South Korea |
-|Birthday  			| Math 27th, 1994 							|
+|Birthday  			| 27/05/1994							    |
 |Phone    			| (+82)10-5391-0533   						|
 |Email     			| vmthanhit@gmail.com 						|
 |Skype  			| luckyluck379 								|
