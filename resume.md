@@ -96,4 +96,4 @@ Web developer. Mainly build Single Page App websites using MEAN Stack technology
 
 * 2017: **Certified Deep Leraning with Tensorflow**. Awarded by IBM Cognitive Class.
 
-![Images](/images/ibm_certificates.png)
+![Images](/images/resume/ibm_certificates.png)
