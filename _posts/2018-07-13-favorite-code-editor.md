@@ -11,7 +11,7 @@ tags:
 
 Like many developers, I don't like Microsoft and many other Microsoft products. Window kernel based runs on DOS (correct me if I'm wrong) but many tools, libraries and support frameworks (especially in machine learning and big data) are written Unix/Linux based. My main working environment has been Ubuntu for nearly 3 years since I became Android developer and now is a Machine learning engineer. 
 
-At that time, beside other heavy specific programming studio such as Android Studio, I always to look up a light weight code editor for helping me work fast and easily. So that, [Sublime Text](https://www.sublimetext.com/) became my favorite editor. Using Sublime, I could edit any files, code web with front end and backend, loop up a function in source code, replace a world, code syntax highlight, formating and much more. Life becomes simple with Sublime. 
+At that time, beside other heavy specific programming studio such as Android Studio, I always look up a light weight code editor for helping me work fast and easily. So that, [Sublime Text](https://www.sublimetext.com/) became my favorite editor. Using Sublime, I could edit any files, code web with front end and backend, loop up a function in source code, replace a world, code syntax highlight, formating and much more. Life becomes simple with Sublime. 
 
 But recently, I found my new favorite one, [Visual Studio Code](https://code.visualstudio.com/) (VSC). With after a few configurations, VSC could satisfy me as same as Sublime and even more. Here are some reasons with simple configurations to make me change from Sublime to VSC.
 
@@ -21,7 +21,7 @@ VSC is a cross platform editor that could work in Microsoft, Linx, Mac. Just nee
 
 ![VSC images](/images/favorite-code-editor/vsc-main.png)
 
-## What I likes Visual Studio Code 
+## What I like Visual Studio Code 
 
 ### IntelliSense 
 
@@ -29,11 +29,11 @@ Just like Sublime, as soon as you open a project, VSC will start to scan it for 
 
 ### Fast 
 
-To be honest, VSC is much slower than Sublime in compared of openning a project and scan. But it still be MUCH MUCH better than others. I used to open a Python project with 10GB images with Pycharm (other Python editor). And it stucks and swallows all my RAM for scanning and indexing file. But for VSC, it still work fine and fast. 
+To be honest, VSC is much slower than Sublime in compared of openning a project and scan. But it still be MUCH MUCH better than others. I used to open a Python project with 10GB images with Pycharm (other Python editor).It stucks and swallows all my RAM for scanning and indexing file. But for VSC, it still works fine and fast. 
 
 ### Built in Debugger
 
-This is definitely my most favorite features. For many years, Sublime cannot satisfy me because it does not support debugging plugins offically (other Sublime pluggins are suck). When I write Python code, I have to open Pycharm to debug something tricky. With VSC and Python extension, I could do the same thing in Pycharm with VSC. Moreover, at anytime in VCS, I coud stop at one line of code and use Debug Console (View/Debug Console) to play arround with variables  such as add/change/modify value while they are running (sound like Matlab, right?!).
+This is definitely my most favorite feature. For many years, Sublime cannot satisfy me because it does not support debugging offically (other Sublime pluggins are suck). When I write Python code, I have to open Pycharm to debug something tricky. With VSC and Python extension, I could do the same thing in Pycharm with VSC. Moreover, at anytime in VCS, I coud stop at one line of code and use Debug Console (View/Debug Console) to play arround with variables  such as add/change/modify value while they are running (sound like Matlab, right?!).
 
 ![VSC debug](/images/favorite-code-editor/vsc-debug.png)
 
