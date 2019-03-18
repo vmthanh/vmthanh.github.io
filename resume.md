@@ -7,7 +7,7 @@ sidebar_link: true
 
 |                   |                     						|
 |:----------------  | :------------------						|
-|Address			|Gunja-dong, Gwangjin-gu,Seoul, South Korea |
+|Address			| Singapore								    |
 |Birthday  			| 27/05/1994							    |
 |Phone    			| (+82)10-5391-0533   						|
 |Email     			| vmthanhit@gmail.com 						|
@@ -19,7 +19,7 @@ sidebar_link: true
 * Machine Learning
 * Deep Learning
 * Imbalanced Data Problem
-* Big Data
+* Data Science
 * Computer Vision
 
 ## Skills 
@@ -38,29 +38,10 @@ sidebar_link: true
 
 * **Misc**: Academic research. 
 
-## Research Experiences 
-
-* *03/2016 - Present*
-: **Research Assistant, Imaging and Intelligent System Laboratory**, Sejong Univsersity, South Korea.
-	Research topic is about machine learning and deep learning in *imbalanced data, bankruptcy problem, 3D face reconstruction, head pose esimation, gaze tracking*.
-
-* *02/2016 - 08/2016*
-: **Research Assistant**, University of Science, Ho Chi Minh City, Vietnam.
-	Research topic is about *human activity detection and recognition in videos*.
-
-## Research Publication 
-
-### Journal Aritcles 
-
-* Le, C. T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, "A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset," *Symmetry*, Vol. 10, No.7, pp.250, 2018. [Link](https://doi.org/10.3390/sym10070250)
-
-### Conference Proceedings 
-
-* **Vo, M. T.** and Kong, S. G., "Depth Estimation of a 3d Face Model from a 2D Face Image," *In Proceedings of the UKC-2017*, Washington DC, USA, 2017.
-
-* **Vo, M. T.** and Kong, S. G., "Head Pose Estimation via Manifold Learning on Global Features extraction," *In Proceedings of the 18th International Symposium on Advanced Intelligent Systems*, Daegu, South Korea, 2017.
-
 ## Experience
+
+* *04/2019 - Present*
+:	**Data Scientist**; Shopee Corporation, Singapore.
 
 * *03/2016 - 03/2017*
 :	**Software Engineer**; VNG Corporation.
@@ -73,9 +54,11 @@ Web developer. Mainly build Single Page App websites using MEAN Stack technology
 
 ## Education 
 
-* *03/2017 - Present*
+* *03/2017 - 02/2019*
 :   **MSc Student, Computer Science**; Sejong Univsersity, South Korea
 	* Thesis: *Reconstructing 3D Face Model from a Single 2D Image at Arbitrary Pose with Robust Morphing using Gaussian Radial Basis Function*.
+
+	* GPA: 4.25/4.5
 
 * *10/2012 - 11/2016*
 :   **BSc, (Hons) Advanced Program in Computer Science**; University of Science, Ho Chi Minh City, Vietnam
@@ -83,6 +66,33 @@ Web developer. Mainly build Single Page App websites using MEAN Stack technology
 	* Thesis: *Human Activity Detection and Recognition from RGB-D Images*
 
 	* GPA: 3.69/4.0
+
+## Research Experiences 
+
+* *03/2016 - 02/2019*
+: **Research Assistant, Imaging and Intelligent System Laboratory**, Sejong Univsersity, South Korea.
+	Research topic is about machine learning and deep learning in *imbalanced data, bankruptcy problem, 3D face reconstruction, head pose esimation, gaze tracking*.
+
+* *02/2016 - 08/2016*
+: **Research Assistant**, University of Science, Ho Chi Minh City, Vietnam.
+	Research topic is about *human activity detection and recognition in videos*.
+
+## Research Publication 
+
+### Journal Aritcles 
+
+<!-- * **Vo, M. T.**, Nguyen. T., Le. C. T.,"A hybrid framework for smile detection in class imbalance scenarios," *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
+
+* **Vo, M. T.** , Nguyen, T., Le, C. T., "Race Recognition Using Deep Convolutional Neural Networks," *Symmetry*, Vol. 10, No, 11, pp. 564,IF: 1.25. [Link](https://doi.org/10.3390/sym10110564) -->
+
+* Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, "A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset," *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
+
+### Conference Proceedings 
+
+* **Vo, M. T.** and Kong, S. G., "Depth Estimation of a 3d Face Model from a 2D Face Image," *In Proceedings of the UKC-2017*, Washington DC, USA, 2017.
+
+* **Vo, M. T.** and Kong, S. G., "Head Pose Estimation via Manifold Learning on Global Features extraction," *In Proceedings of the 18th International Symposium on Advanced Intelligent Systems*, Daegu, South Korea, 2017.
+
 
 ## Miscellaneous Experience
 
