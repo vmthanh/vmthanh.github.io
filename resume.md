@@ -4,15 +4,14 @@ title: Resume
 sidebar_link: true
 ---
 
+|:----------------      | :---------------------------------------------------------------------------------------	|
+|**Address**			| Singapore								    												|
+|**Phone**    			| (+65) 8142-2072   																		|
+|**Email**     			| vmthanhit@gmail.com 																		|
+|**Skype**  			| luckyluck379 																				|
+|**Github**  			| [https://github.com/vmthanh](https://github.com/vmthanh)									|
+|**Linkedin**  			| [https://www.linkedin.com/in/minh-thanh-vo-a4997ba2](https://www.linkedin.com/in/minh-thanh-vo-a4997ba2)	|
 
-|                   |                     						|
-|:----------------  | :------------------						|
-|Address			| Singapore								    |
-|Birthday  			| 27/05/1994							    |
-|Phone    			| (+82)10-5391-0533   						|
-|Email     			| vmthanhit@gmail.com 						|
-|Skype  			| luckyluck379 								|
-|Github  			| https://github.com/vmthanh				|
 
 ## Research Area
 
@@ -81,17 +80,19 @@ Web developer. Mainly build Single Page App websites using MEAN Stack technology
 
 ### Journal Aritcles 
 
-<!-- * **Vo, M. T.**, Nguyen. T., Le. C. T.,"A hybrid framework for smile detection in class imbalance scenarios," *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
+<!-- * Le, T, **Vo, M. T.**, Vo. B., Lee. M. Y., and Baik, S. W., **"A Hybrid Approach Using Oversampling Technique and Cost-Sensitive Learning for Bankruptcy Prediction,"** *Complexity*, Vol. 2019, Article ID 8460934, 2019, IF: 2.59. [Link](https://doi.org/10.1155/2019/8460934) 
 
-* **Vo, M. T.** , Nguyen, T., Le, C. T., "Race Recognition Using Deep Convolutional Neural Networks," *Symmetry*, Vol. 10, No, 11, pp. 564,IF: 1.25. [Link](https://doi.org/10.3390/sym10110564) -->
+* **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
 
-* Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, "A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset," *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
+* **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564,IF: 1.25. [Link](https://doi.org/10.3390/sym10110564)
+
+* Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, **"A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset,"** *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250) -->
 
 ### Conference Proceedings 
 
-* **Vo, M. T.** and Kong, S. G., "Depth Estimation of a 3d Face Model from a 2D Face Image," *In Proceedings of the UKC-2017*, Washington DC, USA, 2017.
+* **Vo, M. T.** and Kong, S. G., **"Depth Estimation of a 3d Face Model from a 2D Face Image,"** *In Proceedings of the UKC-2017*, Washington DC, USA, 2017.
 
-* **Vo, M. T.** and Kong, S. G., "Head Pose Estimation via Manifold Learning on Global Features extraction," *In Proceedings of the 18th International Symposium on Advanced Intelligent Systems*, Daegu, South Korea, 2017.
+* **Vo, M. T.** and Kong, S. G., **"Head Pose Estimation via Manifold Learning on Global Features extraction," *In Proceedings of the 18th International Symposium on Advanced Intelligent Systems*, Daegu, South Korea, 2017.
 
 
 ## Miscellaneous Experience

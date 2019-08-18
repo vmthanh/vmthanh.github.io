@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Thanh Vo
 tagline:          'Blog'
-description:      'Welcome to my blog. A greek dev loves writing.'
+description:      'A naive machine learning geek'
 url:              https://vmthanh.github.io/
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"

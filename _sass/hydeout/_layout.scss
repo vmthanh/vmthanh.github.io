@@ -91,6 +91,7 @@ body {
 #sidebar {
   header ~ *, header ~ nav, p.lead {
     display: none;
+    font-variant: all-petite-caps;
   }
 }
 
@@ -209,10 +210,10 @@ body {
       }
     }
 
-    > * {
-      max-width: 38rem;
-      padding: 0;
-    }
+    // > * {
+    //   max-width: 38rem;
+    //   padding: 0;
+    // }
   }
 }
 
