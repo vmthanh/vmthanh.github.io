@@ -13,6 +13,6 @@ But now, I'm pursuing the Master Degree about Computer Science in Korea. This wo
 To finish, let's doing one thing that developers like me often do when learning a new programming language or new thing:
 	
  {% highlight python %}
- from __future__ import division, print_function
- print Hello World
+ from __future__ import print_function
+ print(Hello World)
  {% endhighlight %}
