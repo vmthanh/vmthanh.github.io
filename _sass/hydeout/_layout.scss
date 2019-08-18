@@ -173,7 +173,7 @@ body {
   #sidebar {
     .site-title {
       font-size: 3.0rem;
-
+      color: $sidebar-title-color;
       a { color: $sidebar-title-color; }
       .back-arrow { display: none; }
     }
