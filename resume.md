@@ -10,7 +10,7 @@ sidebar_link: true
 |**Email**     			| vmthanhit@gmail.com 																		|
 |**Skype**  			| luckyluck379 																				|
 |**Github**  			| [https://github.com/vmthanh](https://github.com/vmthanh)									|
-|**Linkedin**  			| [https://www.linkedin.com/in/minh-thanh-vo-a4997ba2](https://www.linkedin.com/in/minh-thanh-vo-a4997ba2)	|
+|**Linkedin**  			| [https://www.linkedin.com/in/thanh-minh-vo/](https://www.linkedin.com/in/thanh-minh-vo/)	|
 
 
 ## Research Area
