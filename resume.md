@@ -9,9 +9,9 @@ sidebar_link: true
 |**Phone**    			| (+65) 8142-2072   																		|
 |**Email**     			| vmthanhit@gmail.com 																		|
 |**Skype**  			| luckyluck379 																				|
-|**Github**  			| [https://github.com/vmthanh](https://github.com/vmthanh)									|
-|**Linkedin**  			| [https://www.linkedin.com/in/thanh-minh-vo/](https://www.linkedin.com/in/thanh-minh-vo/)	|
-
+|**Github**  			| [vmthanh](https://github.com/vmthanh)										                |
+|**Linkedin**  			| [thanh-minh-vo](https://www.linkedin.com/in/thanh-minh-vo/)	                            |
+|**PDF File**           | [Resume](/images/resume/Resume.pdf)
 
 ## Research Area
 
@@ -25,17 +25,14 @@ sidebar_link: true
 
 * **Programing Languages**: Python, Java (Android), Matlab, C++, C# .NET, SQL.
 
-* **Computer Science**: Algorithms, Data Structure, Computer Vision, Machine Learning, Linear Algebra, Statistic.
+* **Computer Science**: Algorithms, Data Structure, Computer Vision, Machine Learning.
 
-* **Deep Learning Dev**: Tensorflow, Keras, Scikit-Learn, Pandas.
-
-* **Web Dev**: HTML, CSS, JavaScript, NodeJS, AngularJS. 
+* **Deep Learning Dev**: Tensorflow, Pytorch, Keras, Scikit-Learn, Pandas.
 
 * **Database**: MySQL, MongoDB.
 
-* **Languages**: Strong reading, writing and speaking competencies for English (IELTS 7.0). Vietnamese.
+* **Languages**: English (professional working proficiency). Vietnamese (native). Korean (basic).
 
-* **Misc**: Academic research. 
 
 ## Experience
 
@@ -44,12 +41,12 @@ sidebar_link: true
 
 * *03/2016 - 03/2017*
 :	**Software Engineer**; VNG Corporation.
-Android developer. Maintain and develop product features for Zalo chat application and Laban key application.
+	* Android developer: Maintain and develop product features for Zalo chat application and Laban key application.
 	* Google Play Store: [Zalo - Video Call](https://play.google.com/store/apps/details?id=com.zing.zalo), [Laban Key](https://play.google.com/store/apps/details?id=com.vng.inputmethod.labankey)
 
 * *05/2015 - 07/2015*
 :	**Software Engineer, Intern**; Orient Software Corporation
-Web developer. Mainly build Single Page App websites using MEAN Stack technology
+	* Web developer: Build Single Page App websites using MEAN Stack technology
 
 ## Education 
 
@@ -69,28 +66,30 @@ Web developer. Mainly build Single Page App websites using MEAN Stack technology
 ## Research Experiences 
 
 * *03/2016 - 02/2019*
-: **Research Assistant, Imaging and Intelligent System Laboratory**, Sejong Univsersity, South Korea.
-	Research topic is about machine learning and deep learning in *imbalanced data, bankruptcy problem, 3D face reconstruction, head pose esimation, gaze tracking*.
+: **Research Assistant**. *Imaging and Intelligent System Laboratory, Sejong Univsersity, South Korea*.
+	* Research topic: machine learning and deep learning in imbalanced data, bankruptcy problem, 3D face reconstruction, head pose esimation, gaze tracking.
 
 * *02/2016 - 08/2016*
-: **Research Assistant**, University of Science, Ho Chi Minh City, Vietnam.
-	Research topic is about *human activity detection and recognition in videos*.
+: **Research Assistant**. *University of Science, Ho Chi Minh City, Vietnam*.
+	* Research topic: human activity detection, human recognition in videos.
 
 ## Research Publication 
 
-### Journal Aritcles 
+### Selected Journal Aritcles 
+
+* Le, T, **Vo, M. T.**, Vo, B., Hwang, E., Rho, S., and Baik, S, W., **"Improving electric energy consumption prediction using CNN and Bi-LSTM,"** *Applied Sciences*, Vol.9 (20), 2019. IF: 2.22. [Link](https://doi.org/10.3390/app9204237)
 
 * Le, T, **Vo, M. T.**, Vo. B., Lee. M. Y., and Baik, S. W., **"A Hybrid Approach Using Oversampling Technique and Cost-Sensitive Learning for Bankruptcy Prediction,"** *Complexity*, Vol. 2019, Article ID 8460934, 2019, IF: 2.59. [Link](https://doi.org/10.1155/2019/8460934) 
 
-<!-- * **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
+* **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
 
-* **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564,IF: 1.25. [Link](https://doi.org/10.3390/sym10110564) -->
+* **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564,IF: 1.25. [Link](https://doi.org/10.3390/sym10110564)
 
 * Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, **"A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset,"** *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
 
 ### Conference Proceedings 
 
-* **Vo, M. T.** and Kong, S. G., **"Depth Estimation of a 3d Face Model from a 2D Face Image,"** *In Proceedings of the UKC-2017*, Washington DC, USA, 2017.
+<!-- * **Vo, M. T.** and Kong, S. G., **"Depth Estimation of a 3d Face Model from a 2D Face Image,"** *In Proceedings of the UKC-2017*, Washington DC, USA, 2017. -->
 
 * **Vo, M. T.** and Kong, S. G., **"Head Pose Estimation via Manifold Learning on Global Features extraction,"** *In Proceedings of the 18th International Symposium on Advanced Intelligent Systems*, Daegu, South Korea, 2017.
 
