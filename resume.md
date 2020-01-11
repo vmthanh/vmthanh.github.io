@@ -67,15 +67,17 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 
 ### Selected Journal Articles 
 
-1. Le, T, **Vo, M. T.**, Vo, B., Hwang, E., Rho, S., and Baik, S, W., **"Improving electric energy consumption prediction using CNN and Bi-LSTM,"** *Applied Sciences*, Vol.9 (20), 2019. IF: 2.22. [Link](https://doi.org/10.3390/app9204237)
+1. **Vo, M. T.**, Nguyen, T., Le, C. T., **"Robust Head Pose Estimation Using Extreme Gradient Boosting Machine on Stacked Autoencoders Neural Network,"** *IEEE Access*, Vol. 8, No.1, pp.3687-3694, 2020, IF: 4.09. [Link](https://ieeexplore.ieee.org/document/8945218?source=authoralert)
 
-2. Le, T, **Vo, M. T.**, Vo. B., Lee. M. Y., and Baik, S. W., **"A Hybrid Approach Using Oversampling Technique and Cost-Sensitive Learning for Bankruptcy Prediction,"** *Complexity*, Vol. 2019, 2019, IF: 2.59. [Link](https://doi.org/10.1155/2019/8460934) 
+2. Le, T, **Vo, M. T.**, Vo, B., Hwang, E., Rho, S., and Baik, S, W., **"Improving electric energy consumption prediction using CNN and Bi-LSTM,"** *Applied Sciences*, Vol.9 (20), 2019. IF: 2.22. [Link](https://doi.org/10.3390/app9204237)
 
-3. **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
+3. Le, T, **Vo, M. T.**, Vo. B., Lee. M. Y., and Baik, S. W., **"A Hybrid Approach Using Oversampling Technique and Cost-Sensitive Learning for Bankruptcy Prediction,"** *Complexity*, Vol. 2019, 2019, IF: 2.59. [Link](https://doi.org/10.1155/2019/8460934) 
 
-4. **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10110564)
+4. **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
 
-5. Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, **"A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset,"** *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
+5. **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10110564)
+
+6. Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, **"A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset,"** *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
 
 ### Conference Proceedings 
 
