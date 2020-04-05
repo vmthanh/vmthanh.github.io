@@ -19,13 +19,13 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 
 ## Skills 
 
-* **Programing Languages**: Python, Java (Android), Matlab, C++, C# .NET, SQL.
+* **Programing Languages**: Python, Java, Matlab, C++.
 
 * **Computer Science**: Algorithms, Data Structure, Computer Vision, Machine Learning.
 
 * **Deep Learning Dev**: Tensorflow, Pytorch, Keras, Scikit-Learn, Pandas.
 
-* **Database**: MySQL, MongoDB.
+* **Database**: SQL.
 
 * **Languages**: English (professional working proficiency). Vietnamese (native). Korean (basic).
 
@@ -47,11 +47,11 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 * *03/2016 - 03/2017*: **Software Engineer**. VNG Corporation.
 	* Android developer: Maintain and develop product features for Zalo chat application and Laban key application.
 	* Google Play Store: [Zalo - Video Call](https://play.google.com/store/apps/details?id=com.zing.zalo), [Laban Key](https://play.google.com/store/apps/details?id=com.vng.inputmethod.labankey)
-	* Stack: *Android Studio.*
+	* Stack: *Android, Java.*
 
 * *05/2015 - 07/2015*: **Software Engineer, Intern**. Orient Software Corporation
 	* Web developer: Build Single Page App websites using MEAN Stack technology
-	* Stack: *MongoDB, NodeJS, AngularJS, ExpressJS, C#.*
+	* Stack: *MongoDB, NodeJS, AngularJS, ExpressJS, ASP .NET.*
 
 ## Education 
 
@@ -91,8 +91,6 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 ### Awards and Achivements
 
 * 2016 - 2018: **Full Master Scholarship**, Sejong University, South Korea. 
-* 2015: **Merit Award**, Department Prize for outstanding student performance, University of Science, Ho Chi Minh City, Vietnam.
-* 2014: **Merit Award**, 2nd winner in the Nokia-X Hackathon Programing in Ho Chi Minh City. 
 
 ### Certification 
 
