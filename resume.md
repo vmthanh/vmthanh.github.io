@@ -33,8 +33,10 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 ## Experiences
 
 * *04/2019 - Present*: **Data Scientist**. Shopee Corporation, Singapore.
-	* Implemented face detection, face matching services for fraud detection problems.
-	* Deployed and maintained log platform.
+	* Conducted computer vision based solutions for fraud detection problems.
+	* Built services: image quality control, face detect, face match, face search.
+	* Built log platform for monitoring all services.
+	* Services run for more than 10M Shopee Paylater users in regions (ID, VN, TH, PH, MY).
 	* Stack: *Docker, Flask, Redis, ELK, Tensorflow, Pytorch, Pandas, Jupyter Notebook, Tmux, Crontab, Shell scripts.*
 
 * *03/2017 - 03/2019*: **Research Assistant**. *Imaging and Intelligent System Laboratory*. Sejong Univsersity, South Korea.
