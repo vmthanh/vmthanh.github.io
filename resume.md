@@ -33,8 +33,7 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 ## Experiences
 
 * *04/2019 - Present*: **Data Scientist**. Shopee Corporation, Singapore.
-	* Implemented face detection, face matching solutions for fraud detection problems.
-	* Deployed SelfieQC live service in Shopee Pay Later feature (Indonesian region).
+	* Implemented face detection, face matching services for fraud detection problems.
 	* Deployed and maintained log platform.
 	* Stack: *Docker, Flask, Redis, ELK, Tensorflow, Pytorch, Pandas, Jupyter Notebook, Tmux, Crontab, Shell scripts.*
 
@@ -67,17 +66,22 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 
 ### Selected Journal Articles 
 
-1. **Vo, M. T.**, Nguyen, T., Le, C. T., **"Robust Head Pose Estimation Using Extreme Gradient Boosting Machine on Stacked Autoencoders Neural Network,"** *IEEE Access*, Vol. 8, No.1, pp.3687-3694, 2020, IF: 4.09. [Link](https://ieeexplore.ieee.org/document/8945218?source=authoralert)
+{: reversed="reversed"}
 
-2. Le, T, **Vo, M. T.**, Vo, B., Hwang, E., Rho, S., and Baik, S, W., **"Improving electric energy consumption prediction using CNN and Bi-LSTM,"** *Applied Sciences*, Vol.9 (20), 2019. IF: 2.22. [Link](https://doi.org/10.3390/app9204237)
+7. Le, C. T., **Vo, M. T.**, Tung, K., Eenjun, H., Seungmin, R., Sung, W. B., **Multiple electric energy consumption forecasting using a cluster-based strategy for transfer learning in smart building,**  *Sensors*, Vol. 20(9), pp. 2668, 2020, IF: 3.03. [Link](https://doi.org/10.3390/s20092668)
 
-3. Le, T, **Vo, M. T.**, Vo. B., Lee. M. Y., and Baik, S. W., **"A Hybrid Approach Using Oversampling Technique and Cost-Sensitive Learning for Bankruptcy Prediction,"** *Complexity*, Vol. 2019, 2019, IF: 2.59. [Link](https://doi.org/10.1155/2019/8460934) 
+6. **Vo, M. T.**, Nguyen, T., Le, C. T., **"Robust Head Pose Estimation Using Extreme Gradient Boosting Machine on Stacked Autoencoders Neural Network,"** *IEEE Access*, Vol. 8, No.1, pp.3687-3694, 2020, IF: 4.09. [Link](https://ieeexplore.ieee.org/document/8945218?source=authoralert)
 
-4. **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
+5. Le, C. T, **Vo, M. T.**, Vo, B., Eenjun, H., Seungmin, R., and Sung, W. B., **"Improving electric energy consumption prediction using CNN and Bi-LSTM,"** *Applied Sciences*, Vol.9 (20), 2019. IF: 2.22. [Link](https://doi.org/10.3390/app9204237)
 
-5. **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10110564)
+4. Le, T, **Vo, M. T.**, Vo. B., Lee. M. Y., and Sung, W. B., **"A Hybrid Approach Using Oversampling Technique and Cost-Sensitive Learning for Bankruptcy Prediction,"** *Complexity*, Vol. 2019, 2019, IF: 2.59. [Link](https://doi.org/10.1155/2019/8460934) 
 
-6. Le, T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Baik, S. W, **"A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset,"** *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
+3. **Vo, M. T.**, Nguyen. T., Le. C. T.,**"A Hybrid Framework for Smile Detection in Class Imbalance Scenarios,"** *Neural Computing and Applications*, pp.1-10, 2019, IF: 4.21. [Link](https://doi.org/10.1007/s00521-019-04089-w)
+
+2. **Vo, M. T.** , Nguyen, T., Le, C. T., **"Race Recognition Using Deep Convolutional Neural Networks,"** *Symmetry*, Vol. 10, No, 11, pp. 564, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10110564)
+
+1. Le, C. T., Le, H. S., **Vo, M. T.**, Lee, M. Y., and  Sung, W. B., **"A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset,"** *Symmetry*, Vol. 10, No.7, pp.250, 2018, IF: 1.25. [Link](https://doi.org/10.3390/sym10070250)
+
 
 ### Conference Proceedings 
 
