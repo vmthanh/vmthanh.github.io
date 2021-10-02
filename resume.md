@@ -23,7 +23,7 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 
 * **Computer Science**: Algorithms, Data Structure, Computer Vision, Machine Learning.
 
-* **Deep Learning Dev**: Tensorflow, Pytorch, Keras, Scikit-Learn, Pandas.
+* **Deep Learning Dev**: Tensorflow, Pytorch, Keras, FAISS, Milvus, Scikit-Learn, Pandas.
 
 * **Database**: SQL.
 
@@ -33,11 +33,17 @@ Machine Learning * Deep Learning * Computer Vision * Imbalanced Data
 ## Experiences
 
 * *04/2019 - Present*: **Data Scientist**. Shopee Corporation, Singapore.
-	* Conducted computer vision based solutions for fraud detection problems.
-	* Built services: image quality control, face detect, face match, face search.
-	* Built log platform for monitoring all services.
-	* Services run for more than 10M Shopee Paylater users in regions (ID, VN, TH, PH, MY).
-	* Stack: *Docker, Flask, Redis, ELK, Tensorflow, Pytorch, Pandas, Jupyter Notebook, Tmux, Crontab, Shell scripts.*
+	* Implemented **CV solutions** from scratch for KYC processes in Shopee Credit, Airpay and SeaMoney.
+	* Built deep learning models for **face detection, face recognition ( 1 vs 1 matching and 1 vs N matching)**.
+	* Built Shopee **in-house face detection SDK** for **mobile devices** that beat the pretrained GMS model in both speed and accuracy.
+	* Designed and implemented **ML services** running in SEA regions (ID, TH, PH, MY, VN) that serving more than **20M users** and more than **30 QPS**
+	* Built a **centralized log platform** for monitoring all services.
+	* Stack: 
+		* Model: ArcFace, Retina Face, PFLD.
+		* Services: Docker, Flask, Redis, Celery, ELK, 
+		* Tools: Tensorflow, Pytorch, FAISS, Milvus, Pandas, Jupyter Notebook, Tmux, Crontab, Shell scripts.
+		* Mobile Dev: Java (Android).
+
 
 * *03/2017 - 03/2019*: **Research Assistant**. *Imaging and Intelligent System Laboratory*. Sejong Univsersity, South Korea.
 	* Research topic: machine learning and deep learning in imbalanced data, bankruptcy problem, 3D face reconstruction, head pose esimation, gaze tracking.
